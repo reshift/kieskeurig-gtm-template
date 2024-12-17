@@ -21,7 +21,7 @@ ___INFO___
   },
   "description": "Vuur de Kieskeurig conversiepixel af bij een aankoopmoment.",
   "containerContexts": [
-    "SERVER"
+    "WEB"
   ]
 }
 

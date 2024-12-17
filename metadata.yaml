@@ -2,5 +2,5 @@ homepage: https://www.kieskeurig.nl
 documentation: https://www.kieskeurig.nl/gtm-template-docs
 
 versions:
-  - sha: d7b86673087bfa82f486a489eb8e7698ae565b15
+  - sha: 9b41cb96f79ba2d81f552901aa171a2e699616f0
     changeNotes: "Initial version of the Kieskeurig GTM template. Includes configuration for webshop ID and dynamic order value."

@@ -9,11 +9,6 @@ Dit GTM-template stelt webwinkels in staat om de Kieskeurig conversiepixel af te
 3. **Event waardes**: Geef hier oa. het conversie bedrag mee
 4. **Ecommerce object**: Gebruik een GTM-variabele die het Ecommerce object bevat.
 
-## Voorbeeld URL
-```
-https://ocean.kieskeurig.nl/e/basic?webshop=12345&event_name=external_purchase&value=19.99
-```
-
 ## Triggers
 Vuur de tag als configuratie tag zodra de gebruiker voor het eerst de website betreed, vuur de tag als conversie tag af bij het aankoopmoment (`purchase`-event).
 
